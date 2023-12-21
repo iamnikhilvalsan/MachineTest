@@ -1,0 +1,11 @@
+.viewImagePopup{width: 100%; max-width: 600px;}
+.tableImageView{width: 20px !important;height: 20px !important;cursor: pointer;}
+.TableIcon{font-size: 16px;}
+.w29{width: 29px !important;}
+.mr5{margin-right: 5px !important;}
+.table td, .table th {padding: 6px 6px !important;vertical-align: middle !important;}
+span.required{color: red;}
+.input-number{ /*add codes here*/ }
+.alertLabel{font-size: 10px;font-weight: 400;color: red;margin-top: 0px;margin-bottom: 0px;}
+.custom-file{overflow: hidden !important;white-space: nowrap !important;}
+.footer{height: 38px !important;padding: 10px calc(24px / 2) !important;}
